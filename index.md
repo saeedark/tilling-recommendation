@@ -9,13 +9,13 @@ Mainly, this is done through *List-based* or *Tree-based* approaches.
 In this method, windows are items in an ordered list. changing the position of windows in the list, rearrange windows. Different layouts could be applied. To illustrate this, consider a list of windows as *[1, 2, 3, 4, 5, ...]*. Then some layouts are depicted below.
 
 * Stack
-![Stack layout](/home/saeed/Temp/TillingWindowsManager/pic/stack.svg)
+![Stack layout](/pic/stack.svg)
 * hStack
-![hStack layout](/home/saeed/Temp/TillingWindowsManager/pic/hstack.svg)
+![hStack layout](/pic/hstack.svg)
 * Monocle
-![Monocle layout](/home/saeed/Temp/TillingWindowsManager/pic/monocle.svg)
+![Monocle layout](/pic/monocle.svg)
 * Grid
-![Grid layout](/home/saeed/Temp/TillingWindowsManager/pic/grid.svg)
+![Grid layout](/pic/grid.svg)
 * ...
 #### Tree-based
 in this method, windows are the leaves of a tree. and every internal node is a horizontal or vertical split that divides its own space among its children.
